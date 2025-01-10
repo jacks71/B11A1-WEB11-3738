@@ -1,0 +1,66 @@
+.fira-sans-normal {
+    font-family: "Fira Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+  }
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 160px;
+}
+.signin{
+    padding: 15px 30px;
+    border: 2px solid #006A50;
+    border-radius: 8px;
+    font-weight: bold;
+    
+}
+.banner{
+    width: 1280px;
+    height: 70vh;
+    margin: auto;
+    border: 1px solid #C6E4D6;
+    border-radius: 24px;
+    background-color: #C6E4D6;   
+}
+.banner-title{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight:500
+}
+.banner-description{
+    font-size: 56px;
+    font-weight: bold;
+}
+.explore-btn{
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #006A50;
+    color: white;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+    padding: 17px 34px;
+
+}
+.hero{
+    width: 474.4px;
+    height: 400px;
+    padding: 60px 50px;
+      
+}
+.banner{
+    display: flex;
+    justify-content: space-between;  
+    
+}
+.banner-content{
+    width: 622px;
+    height: 326px;
+    padding: 100px 60px;
+}
